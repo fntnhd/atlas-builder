@@ -1,4 +1,4 @@
-package com.us.fountainhead.builder;
+package org.fntnhd.atlas.builder;
 
 import java.io.File;
 import java.io.FileWriter;

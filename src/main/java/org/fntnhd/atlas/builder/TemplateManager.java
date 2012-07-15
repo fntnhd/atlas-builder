@@ -1,4 +1,4 @@
-package com.us.fountainhead.builder;
+package org.fntnhd.atlas.builder;
 
 import java.util.Properties;
 import java.util.logging.Level;

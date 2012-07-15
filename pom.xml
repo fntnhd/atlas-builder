@@ -3,8 +3,8 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.us.fountainhead</groupId>
-    <artifactId>builder</artifactId>
+    <groupId>org.fntnhd.atlas</groupId>
+    <artifactId>atlas-builder</artifactId>
     <version>1.0-SNAPSHOT</version>
 
 
@@ -49,7 +49,7 @@
                     <archive>
                         <manifest>
                             <addClasspath>true</addClasspath>
-                            <mainClass>com.us.fountainhead.builder.ProjectBuilder</mainClass>
+                            <mainClass>org.fntnhd.atlas.builder.ProjectBuilder</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
@@ -59,7 +59,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>com.us.fountainhead.builder.ProjectBuilder</mainClass>
+                            <mainClass>org.fntnhd.atlas.builder.ProjectBuilder</mainClass>
                         </manifest>
                     </archive>
                     <descriptorRefs>

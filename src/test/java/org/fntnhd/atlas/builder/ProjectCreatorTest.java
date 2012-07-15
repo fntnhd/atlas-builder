@@ -1,4 +1,4 @@
-package com.us.fountainhead.builder;
+package org.fntnhd.atlas.builder;
 
 import java.io.File;
 import java.util.zip.ZipEntry;
@@ -8,6 +8,10 @@ import java.io.IOException;
 import java.net.HttpURLConnection;
 import java.net.MalformedURLException;
 import java.net.URL;
+
+import org.fntnhd.atlas.builder.Project;
+import org.fntnhd.atlas.builder.ProjectCreator;
+import org.fntnhd.atlas.builder.Unzipper;
 import org.junit.After;
 import org.junit.AfterClass;
 import org.junit.Before;
