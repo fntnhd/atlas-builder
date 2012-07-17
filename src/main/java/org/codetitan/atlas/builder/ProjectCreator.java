@@ -1,4 +1,4 @@
-package org.fntnhd.atlas.builder;
+package org.codetitan.atlas.builder;
 
 import java.io.File;
 import java.io.FileWriter;

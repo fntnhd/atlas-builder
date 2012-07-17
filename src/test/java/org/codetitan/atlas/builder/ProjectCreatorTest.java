@@ -1,23 +1,18 @@
-package org.fntnhd.atlas.builder;
+package org.codetitan.atlas.builder;
 
 import java.io.File;
-import java.util.zip.ZipEntry;
-import java.util.zip.ZipInputStream;
-import java.io.InputStream;
 import java.io.IOException;
-import java.net.HttpURLConnection;
 import java.net.MalformedURLException;
 import java.net.URL;
 
-import org.fntnhd.atlas.builder.Project;
-import org.fntnhd.atlas.builder.ProjectCreator;
-import org.fntnhd.atlas.builder.Unzipper;
+import org.codetitan.atlas.builder.Project;
+import org.codetitan.atlas.builder.ProjectCreator;
+import org.codetitan.atlas.builder.Unzipper;
 import org.junit.After;
 import org.junit.AfterClass;
 import org.junit.Before;
 import org.junit.BeforeClass;
 import org.junit.Test;
-import static org.junit.Assert.*;
 
 /**
  *

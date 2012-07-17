@@ -1,4 +1,4 @@
-package org.fntnhd.atlas.builder;
+package org.codetitan.atlas.builder;
 
 import java.util.Properties;
 import java.util.logging.Level;

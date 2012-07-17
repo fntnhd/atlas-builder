@@ -1,4 +1,4 @@
-package org.fntnhd.atlas.builder;
+package org.codetitan.atlas.builder;
 
 import java.io.FileInputStream;
 import java.io.IOException;
